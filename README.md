@@ -1,4 +1,5 @@
-![Capa do Projeto]https://www.canva.com/design/DAGncpXFg4E/P9Nucc-9o6S7wRaybJUFmQ/edit?utm_content=DAGncpXFg4E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton=XConvert+-+Conversor+de+Moedas+em+Tempo+Real)
+![XCONVERT]![finances (1)](https://github.com/user-attachments/assets/d786b555-a805-4525-9170-db44ec7c1bcc)
+
 
 ## XConvert - Conversor de Moedas em Tempo Real
 
